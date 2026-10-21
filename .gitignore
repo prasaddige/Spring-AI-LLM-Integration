@@ -1,0 +1,14 @@
+# IDE and System files
+.idea/
+*.iml
+.DS_Store
+
+# Maven build targets (applied globally to all subfolders)
+**/target/
+
+# Gradle build targets (if used later)
+**/.gradle/
+**/build/
+
+# Log files
+*.log
